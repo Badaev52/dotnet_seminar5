@@ -1,0 +1,15 @@
+D:\Cloud\geekbrains\c#\seminar5dz\exercise38\bin\Debug\net6.0\exercise38.exe
+D:\Cloud\geekbrains\c#\seminar5dz\exercise38\bin\Debug\net6.0\exercise38.deps.json
+D:\Cloud\geekbrains\c#\seminar5dz\exercise38\bin\Debug\net6.0\exercise38.runtimeconfig.json
+D:\Cloud\geekbrains\c#\seminar5dz\exercise38\bin\Debug\net6.0\exercise38.dll
+D:\Cloud\geekbrains\c#\seminar5dz\exercise38\bin\Debug\net6.0\exercise38.pdb
+D:\Cloud\geekbrains\c#\seminar5dz\exercise38\obj\Debug\net6.0\exercise38.csproj.AssemblyReference.cache
+D:\Cloud\geekbrains\c#\seminar5dz\exercise38\obj\Debug\net6.0\exercise38.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cloud\geekbrains\c#\seminar5dz\exercise38\obj\Debug\net6.0\exercise38.AssemblyInfoInputs.cache
+D:\Cloud\geekbrains\c#\seminar5dz\exercise38\obj\Debug\net6.0\exercise38.AssemblyInfo.cs
+D:\Cloud\geekbrains\c#\seminar5dz\exercise38\obj\Debug\net6.0\exercise38.csproj.CoreCompileInputs.cache
+D:\Cloud\geekbrains\c#\seminar5dz\exercise38\obj\Debug\net6.0\exercise38.dll
+D:\Cloud\geekbrains\c#\seminar5dz\exercise38\obj\Debug\net6.0\refint\exercise38.dll
+D:\Cloud\geekbrains\c#\seminar5dz\exercise38\obj\Debug\net6.0\exercise38.pdb
+D:\Cloud\geekbrains\c#\seminar5dz\exercise38\obj\Debug\net6.0\exercise38.genruntimeconfig.cache
+D:\Cloud\geekbrains\c#\seminar5dz\exercise38\obj\Debug\net6.0\ref\exercise38.dll
